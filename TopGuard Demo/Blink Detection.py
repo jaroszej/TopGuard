@@ -145,29 +145,3 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
-
-"""
-put bounding box and blink count into functions
-    able to look in specific areas of the webcam stream
-    
-    by sectioning picture into a section per face found
-    
-    '''''''''''''''''''''''''''''''''''''''''
-    |                   |                   |
-    |   person A        |     person B      |
-    |                   |                   |
-    |   blink cnt: 2    |  blink cnt: 4     |
-    |                   |                   |
-    |                   |                   |
-    |  EAR: 0.273       |   EAR: 0.249      |
-    |                   |                   |
-    '''''''''''''''''''''''''''''''''''''''''
-    people: 2
-    
-    can count people by number of sections
-    
-    
-    if 1200 (40s) frames passes without blink activity
-        --> high confidence passenger is not conscious   
-    
-"""
