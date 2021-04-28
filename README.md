@@ -4,6 +4,10 @@ TopGuard is a human-focused car safety monitoring and report system that uses co
   
 ![TopGuard Demo](https://media.giphy.com/media/UBmzNONbR5Wkz72K4j/giphy.gif)  
 
+## Concept  
+
+Events that indicate passengers in a vehicle are injured or in danger are detected by TopGuard. Then, TopGuard can relay that information to the relevant services, such as police or medical units.
+
 See the TopGuard proof of concept demonstration here: [https://www.youtube.com/watch?v=MauU6TrVLGM](https://www.youtube.com/watch?v=MauU6TrVLGM)
 
 ## Required Packages
