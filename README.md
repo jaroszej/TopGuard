@@ -1,6 +1,10 @@
 # TopGuard
 
-TopGuard is a human-focused car safety monitoring and report system that uses computer vision and AI to enable rapid crash response.
+TopGuard is a human-focused car safety monitoring and report system that uses computer vision and AI to enable rapid crash response.  
+  
+![TopGuard Demo](https://i.imgur.com/IMHVPys.mp4)  
+
+See the TopGuard proof of concept demonstration here: [https://www.youtube.com/watch?v=MauU6TrVLGM](https://www.youtube.com/watch?v=MauU6TrVLGM)
 
 ## Required Packages
 
